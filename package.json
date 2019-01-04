@@ -2,7 +2,7 @@
   "name": "react-native-lib-vlc",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "LibVLC.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
